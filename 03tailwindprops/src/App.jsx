@@ -8,7 +8,9 @@ function App() {
 
   return (
     <>
-        <h1> this is tailwind props</h1>
+        <h1 className="bg-green-400 text-white">
+      Hello world!
+    </h1>
     </>
   )
 }
